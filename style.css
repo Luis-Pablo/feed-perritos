@@ -1,3 +1,15 @@
 .container {
     margin: 0 auto;
 }
+
+
+ul li button {
+    width: 20px;
+    height: 20px;
+}
+
+#foto-boton {
+    width: 20px;
+    height: 20px;
+}
+
